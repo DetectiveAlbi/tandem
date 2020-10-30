@@ -1,0 +1,75 @@
+h1  {
+    font-size: 50px;
+}
+
+#Accueil {
+    background-color: #eb8686;
+    padding: 10px;
+}
+
+#Partennaire {
+    background-color: #eb8686;
+    padding: 10px;
+}
+
+#Propos {
+    background-color: #eb8686;
+    padding: 10px;
+}
+
+#Contact {
+    background-color: #eb8686;
+    padding: 10px;
+}
+
+.Pirelli {
+    margin-left: 400px;
+}
+
+.Metzeller {
+    margin-left: 400px;
+}
+
+.Shad {
+    margin-left: 400px;
+}
+
+.Helite {
+    margin-left: 400px;
+}
+
+.Gaerne {
+    margin-left: 400px;
+}
+
+.RStreet {
+    margin-left: 400px;
+}
+
+.Inter {
+    margin-left: 400px;
+}
+
+.Bardahl {
+    margin-left: 400px;
+}
+
+html    {
+    background-image: url("Background.png");
+}
+
+.Side   {
+    position: fixed;
+    left: 7px;
+    top: 200px;
+    background-color: black;
+    padding: 30px  ;
+}
+
+.MenuSide   {
+    padding: 10px;
+}
+
+.content    {
+    margin-left: 400px;
+}
